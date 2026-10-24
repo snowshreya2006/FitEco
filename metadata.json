@@ -1,0 +1,6 @@
+{
+  "name": "FitEco — Wardrobe Carbon & Water Footprint Tracker",
+  "description": "Visualize the true environmental cost of your clothing, track carbon & water footprints with WRAP & Ellen MacArthur Foundation data, and earn rewards for second-hand choices and wear longevity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
